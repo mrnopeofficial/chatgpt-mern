@@ -1,0 +1,6 @@
+1. Mongo db
+syahmim4a1
+AnVZJ7i9Cwdkwwpr
+
+$env:NODE_OPTIONS="--openssl-legacy-provider"
+npm start
